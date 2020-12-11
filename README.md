@@ -34,12 +34,7 @@ Para cada PR realize esse processo.
 
 ### COMEÇANDO OS EXERCÍCIOS
 
-Após conhecer um pouco mais dos conceitos de **Flexbox**, o que acha de praticar criando uma aplicação do zero? 
-
-No exemplo abaixo foi criada uma galeria de fotos de algumas das tecnologias que você aprenderá no curso da Trybe. Sinta-se livre para criar a página com a temática que você preferir, no entanto, atente-se aos enunciados para que a proposta do exercício seja cumprida ok? Além disto, caso você prefira seguir a temática utilizada no exemplo, as imagens utilizadas estão disponíveis na pasta **images**.
-
 ![Trybe Gallery Preview](images/trybe-tech-gallery.jpeg)
-
 
 #### Exercício 1
 - Crie um cabeçalho para sua aplicação utilizando a tag `header`. Este cabeçalho **deve** possuir 3 elementos e estes devem ser posicionados utilizando **Flexbox**. O resultado deverá ser similar à estrutura da página "Trybe Tech-Gallery". Observe os exemplos abaixo:
