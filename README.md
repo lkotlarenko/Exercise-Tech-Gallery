@@ -6,13 +6,11 @@ Crie um fork desse projeto e para isso siga esse [tutorial de como realizar um f
 
 Após feito o fork, clone o repositório criado para o seu computador.
 
-Rode o `npm install`.
-
 Vá para a branch master do seu projeto e execute o comando:
 
 git branch
 
-Mude para a branch pokedex-state com o comando git checkout -b pokedex-state. É nessa branch que você realizará a solução para o exercício.
+Mude para a branch tech-gallery com o comando git checkout -b tech-gallery. É nessa branch que você realizará a solução para o exercício.
 
 Observe o que deve ser feito nas instruções.
 
@@ -40,9 +38,15 @@ Para cada PR realize esse processo.
 
 Após conhecer um pouco mais dos conceitos de **Flexbox**, o que acha de praticar criando uma aplicação do zero? 
 
-No exemplo abaixo foi criada uma galeria de fotos de algumas das tecnologias que você aprenderá no curso da Trybe. Sinta-se livre para criar a página com a temática que você preferir, no entanto, atente-se aos enunciados para que a proposta do exercício seja cumprida ok? Além disto, caso você prefira seguir a temática utilizada no exemplo, as imagens utilizadas estão disponíveis na pasta images.
+No exemplo abaixo foi criada uma galeria de fotos de algumas das tecnologias que você aprenderá no curso da Trybe. Sinta-se livre para criar a página com a temática que você preferir, no entanto, atente-se aos enunciados para que a proposta do exercício seja cumprida ok? Além disto, caso você prefira seguir a temática utilizada no exemplo, as imagens utilizadas estão disponíveis na pasta **images**.
 
 ![Trybe Gallery Preview](images/trybe-tech-gallery.jpeg)
 
-1. Crie um cabeçalho para sua aplicação utilizando a tag `header`. Este cabeçalho **deve** possuir 3 elementos e estes devem ser posicionados de forma que o resultado seja similar à estrutura da página "Trybe Tech-Gallery". Observe os exemplos abaixo:
+1. Crie um cabeçalho para sua aplicação utilizando a tag `header`. Este cabeçalho **deve** possuir 3 elementos e estes devem ser posicionados utilizando **Flexbox**. O resultado deverá ser similar à estrutura da página "Trybe Tech-Gallery". Observe os exemplos abaixo:
 ![Header Exemple](images/trybe-tech-gallery-header.jpeg)
+2. Implemente o conteúdo da primeira `section`. Esta seção deverá conter no mínimo um elemento de texto. Utilizando **Flexbox**, faça o posicionamento de acordo com o exemplo abaixo.
+![Text Sextion Exemple](images/trybe-tech-gallery-text.jpeg)
+3. Implemente o posicionamento da segunda `section`. Esta seção deverá conter  no mínimo 6 imagens e um título para cada uma delas. Sinta-se livre para usar a imaginação e selecionar as imagens que preferir, só não esqueça de seguir a estrutura de posicionamento proposta. 😉
+![Gallery Cards Exemple](images/trybe-tech-gallery-cards.jpeg)
+4. Por fim, faça o posicionamento do footer/rodapé, este é o ultimo elemento necessário para que nossa aplicação fique completa. O rodapé **deverá** conter no mínimo 2 elementos. Para o exemplo, foram adicionadas imagens que redirecionam o usuário para as redes sociais da Trybe.
+![Gallery Footer Exemple](images/trybe-tech-gallery-footer.jpeg)
