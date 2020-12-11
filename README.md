@@ -24,7 +24,7 @@ Após a solução dos exercícios, abra um PR no seu repositório forkado e, se 
 
 ![Mudando a base do repositório](images/change-base.png)
 
-Mude para o seu repositório. Seu nome estará na frente do nome dele, por exemplo: `antonio/pokedex-state`. Depois desse passo a página deve ficar assim:
+Mude para o seu repositório. Seu nome estará na frente do nome dele, por exemplo: `antonio/tech-gallery`. Depois desse passo a página deve ficar assim:
 
 ![Após mudança](images/after-change.png)
 

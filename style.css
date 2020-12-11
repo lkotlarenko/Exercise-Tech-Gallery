@@ -5,6 +5,10 @@
   font-family: 'Ubuntu';
 }
 
+.header-img {
+  width: 70px;
+}
+
 .gallery-img {
   width: 150px;
 }
@@ -12,8 +16,4 @@
 .social-img {
   width: 25px;
   margin-left: 10px;
-}
-
-.header-img {
-  width: 70px;
 }
