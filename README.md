@@ -10,7 +10,7 @@ Vá para a branch master do seu projeto e execute o comando:
 
 git branch
 
-Mude para a branch tech-gallery com o comando git checkout -b tech-gallery. É nessa branch que você realizará a solução para o exercício.
+Mude para a branch tech-gallery com o comando git checkout tech-gallery. É nessa branch que você realizará a solução para o exercício.
 
 Observe o que deve ser feito nas instruções.
 
