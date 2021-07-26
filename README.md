@@ -20,11 +20,17 @@ Após a solução dos exercícios, abra um PR no seu repositório forkado e, se 
 
 ![PR do exercício](images/example-pr.png)
 
-É necessário realizar uma mudança. Clique no *base repository* como na imagem abaixo:
+É necessário realizar uma mudança. No última barra do lado esquerdo pro direito, clique em *compare* e mude para a branch `tech-gallery`:
+
+![Mudando head do repositório](images/change-head.png)
+
+Após isso, clique no *base repository* como na imagem abaixo:
 
 ![Mudando a base do repositório](images/change-base.png)
 
-Mude para o seu repositório. Seu nome estará na frente do nome dele, por exemplo: `antonio/tech-gallery`. Depois desse passo a página deve ficar assim:
+Mude para o seu repositório. Seu nome estará na frente do nome dele, por exemplo: `seu-nome/exercise-tech-gallery`.
+
+Depois desse passo a página deve ficar assim:
 
 ![Após mudança](images/after-change.png)
 
