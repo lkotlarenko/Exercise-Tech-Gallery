@@ -2,15 +2,24 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: "Roboto", "Segoe UI", sans-serif;
+}
+
+header,
+.description {
+  display: flex;
+  align-items: center;
 }
 
 header {
-  display: flex;
+  justify-content: space-around;
   background-color: #323433;
   color: white;
-  font-family: "Roboto", "Segoe UI", sans-serif;
-  align-items: center;
-  justify-content: space-around;
+}
+
+.description {
+  padding: 8px;
+  justify-content: center;
 }
 
 .header-img {
