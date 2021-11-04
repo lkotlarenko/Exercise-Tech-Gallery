@@ -6,20 +6,55 @@
 }
 
 header,
-.description {
+section,
+.gallery div,
+footer {
   display: flex;
-  align-items: center;
+  justify-content: center;
 }
 
 header {
   justify-content: space-around;
   background-color: #323433;
   color: white;
+  align-items: center;
+}
+
+h4 {
+  padding: 10px 0px;
 }
 
 .description {
   padding: 8px;
-  justify-content: center;
+}
+
+.gallery {
+  width: 50%;
+  flex-wrap: wrap;
+}
+
+.gallery div {
+  border-radius: 15px;
+  box-shadow: 2px 3px #d5d4d5;
+  flex-direction: column;
+  background-color: #f1f1f1;
+  align-items: center;
+  margin: 10px 5px;
+  width: 200px;
+  height: 250px;
+  padding: 10px 10px;
+}
+
+.gallery div:hover,
+.header-img:hover,
+footer a:hover {
+  transform: scale(1.05);
+}
+
+.gallery div:active,
+.header-img:active,
+footer a:active {
+  transform: scale(0.95);
 }
 
 .header-img {
