@@ -2,7 +2,15 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Ubuntu';
+}
+
+header {
+  display: flex;
+  background-color: #323433;
+  color: white;
+  font-family: "Roboto", "Segoe UI", sans-serif;
+  align-items: center;
+  justify-content: space-around;
 }
 
 .header-img {
